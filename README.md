@@ -1,11 +1,11 @@
 # Awesome_Websites
-Curated List of Websites
+### Curated List of Websites
 
-A curated and annotated list of amazing website.
+#### A curated and annotated list of amazing website.
 
-Motivation and goals
+### Motivation and goals
 
-This page is meant to helps to get access to amazing websites that can ease your workload.
+#### This page is meant to helps to get access to amazing websites that can ease your workload.
 
 <!-- Contributing
 Any contributions, feedback, or suggestions are welcome, so long as they meet the guidelines described in CONTRIBUTING.md. -->
