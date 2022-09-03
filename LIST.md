@@ -16,5 +16,5 @@
 - # Free & Premium Websites
 | Name        |     URL     | Description |
 | ----------- | ----------- | ----------- |
-|    Tolstoy      | [gotolstoy] (https://gotolstoy.com) |A new way to communicate, qualify leads,onboard new clients,promote your products,drive traffic,collect feedback,communicate, with interactive video|
+|    Tolstoy      | [gotolstoy](https://gotolstoy.com) |A new way to communicate, qualify leads,onboard new clients,promote your products,drive traffic,collect feedback,communicate, with interactive video|
 | Resume    |   [resume](https://resume.io)      |        Use professional field-tested resume templates that follow the exact ‘resume rules’ employers look for. Easy to use and done within minutes  |
