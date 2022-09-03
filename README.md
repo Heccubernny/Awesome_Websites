@@ -1,5 +1,5 @@
 # Awesome_Websites
-Curated Programming Resources
+Curated List of Websites
 A curated and annotated list of amazing website.
 
 Motivation and goals
