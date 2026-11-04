@@ -5,6 +5,7 @@
 | Name        |     URL     | Description |
 | ----------- | ----------- | ----------- |
 |    Removebg   | [Removebg](https://remove.bg)     |    Upload an image to remove the background         |
+| Bucketlist.nl Netherlands checklist (Dutch) | [Bucketlist.nl](https://bucketlist.nl/bucketlist-nederland/checklist) | Free search, browser-local selections and printing; external activity bookings may be paid. |
 |    |         |             |
 
 - # Premium Websites
