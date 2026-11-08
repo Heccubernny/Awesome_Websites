@@ -4,6 +4,7 @@
 - # Free Websites
 | Name        |     URL     | Description |
 | ----------- | ----------- | ----------- |
+| Calculation Hub | [Calculation Hub](https://calculation-hub.com/) | Free calculators for mathematics, statistics, science, finance, and everyday estimates, with formulas and assumptions; no login required. |
 |    Removebg   | [Removebg](https://remove.bg)     |    Upload an image to remove the background         |
 |    |         |             |
 
